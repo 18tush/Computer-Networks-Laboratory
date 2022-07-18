@@ -1,0 +1,3 @@
+https://itsfoss.com/check-ip-address-ubuntu/
+https://unix.stackexchange.com/questions/465563/how-to-understand-ifconfig-or-ip-addr-show
+https://phoenixnap.com/kb/linux-ip-command-examples
